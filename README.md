@@ -89,3 +89,11 @@ Example:
 ```bash
 node . --serv=10.14.59.200:8080
 ```
+
+## Authors
+* Bastien Rinck
+* Thibaut Cornolti
+* Cédric Thomas
+* Arthur Knoepflin
+* Nicolas Polomack
+* Maxime Jenny
